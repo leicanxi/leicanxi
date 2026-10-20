@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/leicanxi.png" width="112" alt="leicanxi" />
-  <h1>雷灿曦 · leicanxi</h1>
+  <h1>leicanxi</h1>
   <p><strong>嵌入式软件工程师 · AI 应用集成</strong></p>
   <p>把大模型接进真实产品：LLM 网关、Android 客户端、后端系统</p>
 
